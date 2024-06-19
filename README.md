@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend System Design and Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [my portfolio site](https://www.manmeetsinghjohal.com/)
+- 👨‍💻 All of my projects are available on [my portfolio site](https://www.manmeetsinghjohal.com/)
 
 - 📫 How to reach me **mjlearn13@gmail.com**
 
