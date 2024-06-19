@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio site](https://www.manmeetsinghjohal.com/)
 
-- 📫 How to reach me **mjlearn13@gmail.com**
+- 📫 How to reach me **m.johal.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
