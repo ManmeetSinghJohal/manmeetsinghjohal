@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manmeet Singh Johal (MJ)</h1>
 <h3 align="center">A passionate Full-Stack Developer from England</h3>
 
-- 🔭 I’m currently working on [GitNote](https://github.com/ManmeetSinghJohal/gitnote)
+- 🔭 I’m currently working on [DevToday](https://github.com/ManmeetSinghJohal/devtoday-front_end)
 
 - 🌱 I’m currently learning **Frontend System Design and Data Structures & Algorithms**
 
